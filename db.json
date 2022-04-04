@@ -1,0 +1,24 @@
+{
+  "product" : [
+  {"id":1,"name":"Hartebeest, coke's","category":"Khaki"},
+  {"id":2,"name":"Goliath heron","category":"Violet"},
+  {"id":3,"name":"Cottonmouth","category":"Green"},
+  {"id":4,"name":"Falcon, prairie","category":"Puce"},
+  {"id":5,"name":"Southern elephant seal","category":"Blue"},
+  {"id":6,"name":"Heron, gray","category":"Red"},
+  {"id":7,"name":"Paca","category":"Puce"},
+  {"id":8,"name":"Jackal, golden","category":"Purple"},
+  {"id":9,"name":"Fisher","category":"Red"},
+  {"id":10,"name":"American woodcock","category":"Puce"},
+  {"id":11,"name":"Large-eared bushbaby","category":"Mauv"},
+  {"id":12,"name":"Eland, common","category":"Red"},
+  {"id":13,"name":"Deer, black-tailed","category":"Indigo"},
+  {"id":14,"name":"European shelduck","category":"Aquamarine"},
+  {"id":15,"name":"Rat, arboral spiny","category":"Green"},
+  {"id":16,"name":"American badger","category":"Khaki"},
+  {"id":17,"name":"Cottonmouth","category":"Indigo"},
+  {"id":18,"name":"Sloth, pale-throated three-toed","category":"Goldenrod"},
+  {"id":19,"name":"Suricate","category":"Violet"},
+  {"id":20,"name":"Mudskipper (unidentified)","category":"Fuscia"}
+  ]
+}
